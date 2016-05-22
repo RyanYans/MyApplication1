@@ -23,9 +23,6 @@ android {
         Huawei {
             manifestPlaceholders (["CATEGORY":"Huawei"])
         }
-        flavor {
-            manifestPlaceholders (["CATEGORY":"flavor"])
-        }
     }
 }
 
